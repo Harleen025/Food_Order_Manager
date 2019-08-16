@@ -35,7 +35,7 @@ public class Food {
     public String getDescription() {
         return Description;
     }
-//Set Description
+//Set Description NEW
     public void setDescription(String description) {
         Description = description;
     }
